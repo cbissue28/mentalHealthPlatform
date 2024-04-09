@@ -1,0 +1,69 @@
+.signUpBox {display: flex;
+flex-direction: column;
+justify-content: center ;
+align-items: center;}
+
+.returnButton { position: relative;
+    top: 30pt; 
+    left: 15pt;   
+}
+
+.navBar {
+    background-color: #5F9EA0;
+}
+
+.serviceLinks {
+    text-decoration: none;
+    color: black;
+}
+
+.btn.bookButton {
+    background-color: #4C787E;
+    color: white;
+}
+
+.btn.bookButton:hover {
+    background-color: #4C787E;
+    color: white;
+}
+
+.appointmentBox {
+    background-color: #b3d9d935;
+    padding: 1rem;
+}
+.appointmentBox p {
+    margin-top: 15pt;
+}
+
+.btn.infoButton {
+    background-color: #5F9EA0;
+    color: white;
+}
+
+.btn.infoButton:hover {
+    background-color: #5F9EA0;
+    color: white;
+}
+
+.navIcons {
+    display: flex;
+}
+
+.historyBox {
+    padding: 2rem ;
+}
+
+.studentTextBox {
+    margin-top: 20pt;
+    margin-bottom: 10pt;
+}
+
+.col-lg-4.therapistProfiles{
+    text-align: center;
+    margin-top: 25pt;
+}
+
+.rescheduleButton {
+    margin-left: 5pt;
+}
+
