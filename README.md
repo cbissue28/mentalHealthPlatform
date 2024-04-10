@@ -18,3 +18,14 @@ The overall aim of this project is to develop and test an online booking platfor
 
 •	Develop a user feedback survey to gather insights and opinions from platform users regarding their experiences after using the mental health booking platform.
 
+## Access Online
+
+Live link available at: https://mentalhealthplatform.000webhostapp.com/index.php
+
+Must create an account to access the website.
+
+A therapist login you can use is:
+
+Email: jillwilson321@gmail.com
+Password: Test123@
+
