@@ -24,7 +24,7 @@ Live link available at: https://mentalhealthplatform.000webhostapp.com/index.php
 
 Must create an account to access the website.
 
-A therapist login you can use to handles student bookings is:
+A therapist login you can use to handle student bookings is:
 
 Email: jillwilson321@gmail.com 
 Password: Test123@
