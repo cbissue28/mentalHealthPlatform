@@ -22,7 +22,7 @@ The overall aim of this project is to develop and test an online booking platfor
 
 •	Appointments are 30 minutes long 
 
-•	Students only allowed one therapy session a day
+•	Students are only allowed one therapy session a day
 
 ## Access Online
 
